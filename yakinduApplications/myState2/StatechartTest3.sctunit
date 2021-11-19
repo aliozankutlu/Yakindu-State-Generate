@@ -1,0 +1,9 @@
+testclass StatechartTest3 for statechart Statechart3 {
+	
+	@Test
+	operation test() {
+		enter
+		
+		exit
+	}
+}
